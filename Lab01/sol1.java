@@ -1,4 +1,4 @@
-
+////THis is exercise of solving first degree 1 variable
 import java.util.Scanner;
  
 public class sol1 {
